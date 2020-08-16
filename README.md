@@ -1,1 +1,2 @@
-# dsa-python
+# DSA-Python
+* Basic Implementation with Python
